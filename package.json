@@ -1,0 +1,15 @@
+{
+  "name": "varianceserver",
+  "version": "0.1.0",
+  "description": "Variance Server is a forwarding-reverse-proxy.",
+  "main": "variance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "varianceserver",
+    "proxy"
+  ],
+  "author": "Jim Chen",
+  "license": "MIT"
+}
